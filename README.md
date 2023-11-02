@@ -18,10 +18,9 @@
 
 #### ¡Conéctate conmigo!
 
-📫 Contáctame en [tu correo electrónico]
-🌐 Visita mi sitio web [si tienes uno]
-📷 Sígueme en Instagram: [@tucuenta]
-🎶 Escucha mis últimas creaciones en SoundCloud: [enlace a tu perfil]
+📫 Contáctame en danielvillanoescobar@outlook.com
+📷 Sígueme en Instagram: @xdani_esco
+
 
 ¡Espero poder colaborar contigo en emocionantes proyectos y compartir nuestros intereses en la programación y la cultura! 🚀
 
