@@ -24,6 +24,6 @@
 
 ## ¡Conéctate conmigo!
 
-- 📧 Contáctame en [danielvillanoescobar@outlook.com](mailto:danielvillanoescobar@outlook.com)
+- 📧 Contáctame en [villanodaniel8@gmail.com](mailto:villanodaniel8@gmail.com)
 
 ¡Espero poder colaborar contigo en emocionantes proyectos! 😊
