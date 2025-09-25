@@ -1,6 +1,6 @@
 # ¡Hola, soy Daniel Villano! 👋
 
-## Desarrollador de Software | Apasionado por la Música y la Cultura Japonesa | Amante de la Animación 2D
+## Desarrollador de Software
 
 - 💻 **Desarrollador Full Stack** con experiencia en **Frontend** y **Backend**.
 - 🌐 Experiencia en desarrollo web y aplicaciones de escritorio con **C#**.
