@@ -1,22 +1,7 @@
-# ¡Hola, soy Daniel Villano! 👋
+👋 ¡Hola! Soy Dani
 
-## Desarrollador de Software
+Soy desarrollador con 1 año de experiencia creando soluciones para aplicaciones web y backend. He trabajado con Angular, Vue, .NET, SQL Server / PostgreSQL y servicios de Azure, participando en el desarrollo de funcionalidades, optimización de datos y despliegue en la nube.
 
-- 💻 **Desarrollador Full Stack** con experiencia en **Frontend** y **Backend**.
-- 🌐 Experiencia en desarrollo web y aplicaciones de escritorio con **C#**.
+Actualmente estoy enfocado en la automatización de procesos con ProcessMaker 3, diseñando flujos eficientes y mejorando operaciones mediante herramientas low-code.
 
-## Conóceme mejor:
-
-- 🚀 Actualmente trabajando en proyectos que involucran tanto el desarrollo frontend como backend.
-- 🎨 Explorando nuevas formas de combinar mi pasión por la programación con la creatividad en el diseño de interfaces.
-## Proyectos Destacados:
-
-- **[Reconocimiento Facial IA](https://github.com/xDani-v/reconocimiento_facial_IA):** Implementación de detección de rostros en tiempo real utilizando modelos de redes neuronales especializadas.
-- **[Chat Gemini IA](https://github.com/xDani-v/chat_ia_gemini):** Chat impulsado por el modelo de lenguaje GPT-3.5 de OpenAI para mantener conversaciones naturales y responder preguntas de manera contextual.
-- **[API de Votaciones](https://github.com/xDani-v/api_apk_votaciones):** API RESTful construida con Go y GORM para gestionar un sistema de votaciones.
-
-## ¡Conéctate conmigo!
-
-- 📧 Contáctame en [villanodaniel8@gmail.com](mailto:villanodaniel8@gmail.com)
-
-¡Espero poder colaborar contigo en emocionantes proyectos! 😊
+Me mueve la curiosidad, el aprendizaje constante y la oportunidad de construir software que realmente aporte valor.
